@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋🏽 Hi, I'm Andrew Ivi
 
-<!--
-**aandrewivi/aandrewivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently an Operations Manager in the oil & gas industry, now transitioning into **cloud computing**, **DevOps**, and **system design**.
 
-Here are some ideas to get you started:
+This GitHub is my digital learning portfolio — where I build and document **real-world cloud projects** across AWS and Azure, with hands-on CI/CD using GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 Cloud Projects
+
+- `JotIt-App` → a cloud-native note-taking app across Azure & AWS
+- (More projects coming soon...)
+
+
+## 💼 Oil & Gas + Tech Fusion
+
+My long-term goal is to drive innovation in the energy space using cloud-native tools, automation, and smart system design.
+
